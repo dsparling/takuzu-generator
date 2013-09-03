@@ -1,0 +1,3 @@
+# Takuzu Generator
+
+Contemplating converting this to a language I actually use...
